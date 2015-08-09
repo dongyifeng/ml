@@ -12,3 +12,9 @@ LR
 KNN
 
 聚类
+
+SVD Feature
+
+SVD
+
+关联规则挖掘
